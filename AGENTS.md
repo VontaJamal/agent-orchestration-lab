@@ -75,7 +75,7 @@ All agents must satisfy and follow every Saint doctrine and discipline as a pre-
 ## Local Repository Overrides
 - Add repository-specific constraints, product requirements, and implementation notes below this line.
 
-<!-- RINSHARI-UI:START -->
+<!-- rinshari-eye:START -->
 ## Design Preflight Requirement (Managed)
 For any UI/UX change, agents must do all of the following before implementation:
 1. Read `design/rinshari-eye/templates/design-preflight.md`.
@@ -87,4 +87,4 @@ For any UI/UX change, agents must do all of the following before implementation:
    - Site Soul alignment
    - Animation audit summary
    - AI intent map
-<!-- RINSHARI-UI:END -->
+<!-- rinshari-eye:END -->
